@@ -1,0 +1,28 @@
+.li-container {
+  box-shadow: 0px 0px 3px 0px;
+  list-style: none;
+  padding: 10px;
+  margin: 10px;
+}
+.faqsContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.answerCon {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.button1 {
+  border-style: none;
+  background-color: #ffffff;
+}
+.heading2 {
+  color: #52606d;
+  font-family: 'Roboto';
+}
+.para {
+  color: #9aa5b1;
+  font-family: 'Roboto';
+}
